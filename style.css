@@ -21,7 +21,7 @@
 .dropdown {
   position: relative;
   display: inline-block;
-  min-width: 10rem;
+  min-width: 12rem;
   
   
 }
@@ -34,8 +34,6 @@
   min-width: 10rem;
   z-index: 1;
   border-radius: 0.5rem;
-
-  
 }
 
 /* Links inside the dropdown */
