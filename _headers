@@ -1,4 +1,3 @@
-
- X-Frame-Options: DENY
+X-Frame-Options: ALLOW-FROM https://cryptoprice-e5r.pages.dev
 X-Content-Type-Options: nosniff
 Referrer-Policy: no-referrer
